@@ -1,10 +1,10 @@
 # TBS_Robotics_Camera_for_Image_and_Video_Capture
 TBS Robotics Camera for Image and Video Capture
 ## Preparation
-- JETSON or Raspberry Pi
+- JETSON Nano
 - RPi compatible camera module
 - OpenCV (cv2) library
-- nanocamera library
+- JETSON nanocamera library
 ## Accessories
 - Camera mount from Adafruit. https://www.adafruit.com/product/1434
   - Or we can laser cut it for custom design. 
