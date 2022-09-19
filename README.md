@@ -29,7 +29,8 @@ TBS Robotics Camera for Image and Video Capture
   cv2.putText(frame0,'Front',(50,50),cv2.FONT_HERSHEY_SIMPLEX,1,(0,255,0),1)
   cv2.putText(frame1,'Back',(50,50),cv2.FONT_HERSHEY_SIMPLEX,1,(0,255,0),1)
 ```
-- Object boundary can be detected using cv2 libary
+- Object boundary can be detected using cv2 libary as one simple example of powerful cv2 processing
+- `python3 nanocamera_test1.py`
 ## Measure video capture and display latency 
 - Video processing can cause delay in video and frustrate robot driving
 - What would be acceptable latency in second to allow real-time feedback robot driving?
