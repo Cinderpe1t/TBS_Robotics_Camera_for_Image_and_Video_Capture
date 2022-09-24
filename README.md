@@ -12,6 +12,8 @@ TBS Robotics Camera for Image and Video Capture
 ## CV2 is powerful openCV graphic and image process library
 - https://docs.opencv.org/4.x/index.html
 - https://pypi.org/project/opencv-python/ 
+- Example of boundary line detection with JETSON
+![JETSON CV2 line detection](https://github.com/Cinderpe1t/TBS_Robotics_Camera_for_Image_and_Video_Capture/blob/main/OpenCV_line_detection_Jetson.png)
 ## Preparation
 - Install cv2 library to python
 - Carefully connect camera cable to JETSON (or RPi) and camera module
