@@ -34,3 +34,6 @@ TBS Robotics Camera for Image and Video Capture
 ## Measure video capture and display latency 
 - Video processing can cause delay in video and frustrate robot driving
 - What would be acceptable latency in second to allow real-time feedback robot driving?
+
+
+[Next: Low latency video transport with gstreamer](https://github.com/Cinderpe1t/TBS_Robotics_Low_Latency_Video_Transport_with_gstreamer) / [Top: Introduction](https://github.com/Cinderpe1t/TBS_Robotics_Introduction)
